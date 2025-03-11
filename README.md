@@ -1,6 +1,6 @@
 # ☀️ SP2025-FP02-solar-flares ☀️
 
-## Erica Maebius (emaebius) 😊 and Anna Williams (ag-williams) 😊
+## Erica Maebius (emaebius) and Anna Williams (ag-williams)
 
 ### Short 1-2 sentence summary
 Solar flares, caused by the tangling of the sun's magnetic field, eject large amounts of electromagnetic energy into space. Although Earth's atmosphere protects us from the majority of emitted charged particles and X-rays, solar flares can disrupt the ionosphere, impacting radio wave propagation around the world. This can be problematic for satellite and air traffic communications. We will use NASA’s solar flare and coronal mass ejection APIs as our data on the solar flares. We can then cross-reference this material to known radio wave frequency disruptions to determine the impact of the solar flares.
