@@ -1,0 +1,4 @@
+# Anna Williams
+## Last Updated: April 8th 2025
+### Purpose:
+This is a continuously updated document to describe what each notebook explores/does within this folder. Each member has separate working folders to avoid coding conflicts. 
