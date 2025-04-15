@@ -9,3 +9,5 @@ dependencies:
 - pandas
 - cartopy
 - matplotlib
+- scipy
+- netcdf4
