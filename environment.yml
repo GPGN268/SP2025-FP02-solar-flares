@@ -1,0 +1,10 @@
+name: solar_flare
+channels:
+- conda-forge
+dependencies:
+- python=3.12
+- numpy
+- xarray
+- pandas
+- cartopy
+- matplotlib
