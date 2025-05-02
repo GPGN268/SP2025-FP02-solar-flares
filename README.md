@@ -45,5 +45,7 @@ Both group members contributed to the interpretations and conceptual analysis of
 
 ### References
 [1] https://scied.ucar.edu/video/sun-magnetic-field-rotate-tangle-movie
+
 [2] https://science.nasa.gov/sun/solar-storms-and-flares/
+
 [3] https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024SW004126#swe21812-bib-0020
